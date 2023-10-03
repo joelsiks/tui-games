@@ -1,0 +1,7 @@
+build/
+DESIGN.md
+
+.ccls
+.vscode
+
+config.yml
